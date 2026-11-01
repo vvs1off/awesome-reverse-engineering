@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="t d">
+  <title id="t">Awesome Reverse Engineering</title>
+  <desc id="d">A dark banner with a hex dump motif and the project title.</desc>
+  <rect width="900" height="200" fill="#0d1117"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#21262d">
+    <text x="24" y="34">00000000  7f 45 4c 46 02 01 01 00  00 00 00 00 00 00 00 00  |.ELF............|</text>
+    <text x="24" y="54">00000010  03 00 3e 00 01 00 00 00  40 10 00 00 00 00 00 00  |..&gt;.....@.......|</text>
+    <text x="24" y="146">00001040  f3 0f 1e fa 31 ed 49 89  d1 5e 48 89 e2 48 83 e4  |....1.I..^H..H..|</text>
+    <text x="24" y="166">00001050  f0 50 54 45 31 c0 31 c9  48 8d 3d ca 00 00 00 ff  |.PTE1.1.H.=.....|</text>
+    <text x="24" y="186">00001060  15 53 2f 00 00 f4 66 2e  0f 1f 84 00 00 00 00 00  |.S/...f.........|</text>
+  </g>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="middle">
+    <text x="450" y="94" font-size="38" font-weight="700" fill="#e6edf3" letter-spacing="1">awesome-reverse-engineering</text>
+    <text x="450" y="126" font-size="15" fill="#8b949e">disassemble · debug · instrument · understand</text>
+  </g>
+  <rect x="300" y="104" width="300" height="2" fill="#2f81f7"/>
+</svg>
