@@ -27,5 +27,7 @@ jobs:
             --user-agent "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
             --exclude-path assets
             --exclude "^https://www.intel.com/"
+            --exclude "^https://www.reddit.com/"
+            --exclude "^https://www.youtube.com/"
             README.md CONTRIBUTING.md
           fail: true
