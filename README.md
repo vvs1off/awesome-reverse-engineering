@@ -128,6 +128,7 @@ This list covers tools, learning material and research for understanding softwar
 - [PEStudio](https://www.winitor.com/) - Static inspection of Windows executables for suspicious indicators.
 - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - Microsoft's suite of Windows system utilities, including Process Monitor and Process Explorer.
 - [unblob](https://github.com/onekey-sec/unblob) - Extraction suite for firmware images and nested container formats.
+- [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infers the protocol of a USB device from captures of its vendor app and generates an open Python/libusb driver.
 
 ## Malware Analysis
 
